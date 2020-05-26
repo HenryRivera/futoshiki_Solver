@@ -1,6 +1,6 @@
 #  Created by Henry Rivera on 5/13/20.
 #  File Name: futoshiki
-#  Description: Futoshiki puzzle solver using backtracking and forward checking
+#  Description: Futoshiki AI puzzle solver using backtracking and forward checking
 #  Copyright © 2020 Henry Rivera. All rights reserved
 
 
